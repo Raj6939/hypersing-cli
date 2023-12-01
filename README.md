@@ -139,6 +139,23 @@ So you can install the hypersign-cli in any of one way below
 
        ![image](https://github.com/Raj6939/hypersing-cli/assets/67961128/f4f1f244-1486-4830-9373-ceb333ec4b00)
 
+       Now, Its all good to go for try,
+
+       ![Screenshot from 2023-12-01 13-09-45](https://github.com/Raj6939/hypersing-cli/assets/67961128/18ad4c50-7b1a-4290-9625-71a75177fac7)
+
+       Navigate to ```http://localhost:9001/``` to see Entity Developer Dashboard
+
+       ![image](https://github.com/Raj6939/hypersing-cli/assets/67961128/bf4f8544-3e74-438f-8ad7-c50277c81b68)
+
+       Navigate to ```http://localhost:3002/``` to see Entity Developer Dashboard Service
+
+       
+
+
+
+
+     
+        
 
 
 
