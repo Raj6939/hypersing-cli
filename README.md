@@ -4,7 +4,9 @@ Contains documentation of hypersign-cli
 **Pre-requisite**
 - Docker Desktop
 
-1. **Install Docker Desktop for Ubuntu**
+
+
+**Install Docker Desktop for Ubuntu**
 
 If you want to run docker locally then you need a docker desktop, go to the below link and follow the instructions.
 
