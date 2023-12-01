@@ -153,6 +153,31 @@ So you can install the hypersign-cli in any of one way below
 
        ![image](https://github.com/Raj6939/hypersing-cli/assets/67961128/e66fa058-5e3c-4dba-ba0e-7cd5c32deb2b)
 
+       Now Let's see other Hypersign-SSI commands and their effects in Docker Desktop
+
+       ```hypersign-ssi stop```    => Stop Hypersign SSI Infrastructure
+
+       ![Screenshot from 2023-12-01 14-41-33](https://github.com/Raj6939/hypersing-cli/assets/67961128/e754a099-485d-49c8-bf97-3ef314086d18)
+
+       ![Screenshot from 2023-12-01 14-41-15](https://github.com/Raj6939/hypersing-cli/assets/67961128/0825b262-a1cb-420f-a85d-6989de6597c8)
+
+       All Container goes down and status of their Images will turn into ```Unused```
+
+       ![Screenshot from 2023-12-01 14-41-51](https://github.com/Raj6939/hypersing-cli/assets/67961128/2d82f27f-3ca6-4012-bfd3-33931065c4aa)
+
+       ```hypersign-ssi clean```   => Stop and Delete Hypersign SSI Infrastructure configurations and data
+
+       ![Screenshot from 2023-12-01 14-49-06](https://github.com/Raj6939/hypersing-cli/assets/67961128/eb5a24cf-6b99-4e97-a8e7-3aa68d6e4b20)
+
+       ![Screenshot from 2023-12-01 14-49-28](https://github.com/Raj6939/hypersing-cli/assets/67961128/00680f7d-83db-40b8-9cdf-df335fd3c8e1)
+
+       ![Screenshot from 2023-12-01 14-51-08](https://github.com/Raj6939/hypersing-cli/assets/67961128/393fc5d6-ae04-4db1-9cfc-56e13d8fe4f0)
+
+
+
+
+
+
 
        
 
