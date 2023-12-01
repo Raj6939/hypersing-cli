@@ -151,6 +151,9 @@ So you can install the hypersign-cli in any of one way below
 
        Navigate to ```http://localhost:3002/``` to see Entity Developer Dashboard Service
 
+       ![image](https://github.com/Raj6939/hypersing-cli/assets/67961128/e66fa058-5e3c-4dba-ba0e-7cd5c32deb2b)
+
+
        
 
 
